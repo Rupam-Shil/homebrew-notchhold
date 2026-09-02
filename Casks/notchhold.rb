@@ -17,7 +17,7 @@ cask "notchhold" do
 
   # Sparkle updates itself in place, so Homebrew should not fight it.
   auto_updates true
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "NotchHold.app"
 
