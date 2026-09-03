@@ -1,6 +1,6 @@
 cask "notchhold" do
-  version "1.0.0"
-  sha256 "93bfffccedb11bf9c3c67f2fd42e6931bba2b7ecc7e6380c24e07cfb2b650d85"
+  version "1.0.1"
+  sha256 "a4543b2b0cb51ba9c66deae35d75915e4aa5ede0c0bc2378b5726641b8777344"
 
   # Served from the site's CDN. GitHub's release-asset host stalled for 45-75 s
   # per connection on some routes; notchhold.app delivers the same bytes in
